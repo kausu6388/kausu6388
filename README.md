@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm kaushlendra singh</h1>
-<h3 align="center">Afrontend developer from India</h3>
+<h3 align="center">A frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kausu6388&label=Profile%20views&color=0e75b6&style=flat" alt="kausu6388" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kausu6388" alt="kausu6388" /></a> </p>
 
-- 🌱 I’m currently learning **java and frontend**
+- 🌱 I’m currently learning **java and frontend,backend**
 
 - 📫 How to reach me **thakurkaushlendra32@gmail.com**
 
